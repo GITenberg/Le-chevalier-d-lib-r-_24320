@@ -1,0 +1,27 @@
+_repo: Le-chevalier-d-lib-r-_24320
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: La Marche, Olivier de
+    alias: Marche, Olivier de la
+    deathdate: 1502
+    gutenberg_agent_id: '26398'
+    url: http://www.gutenberg.org/2009/agents/26398
+description: ''
+gutenberg_bookshelf: FR Poésie
+gutenberg_issued: '2008-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24320'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Knights and knighthood -- Poetry'
+- !lcc 'PQ'
+title: Le chevalier délibéré
+url: http://www.gutenberg.org/ebooks/24320
